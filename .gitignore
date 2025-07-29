@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pkl
+*.json
+.env
+dialogflow_creds.json
+.DS_Store
